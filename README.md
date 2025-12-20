@@ -92,3 +92,42 @@ experimental conditions.
 
 Each plant sequence follows the same directory structure:
 
+subset_x/plant_xx/
+├── frames/
+│ ├── day_000.txt
+│ ├── day_002.txt
+│ └── ...
+└── labels/
+├── semantic/
+│ ├── day_000.txt
+│ └── ...
+├── instance/
+│ ├── day_000.txt
+│ └── ...
+├── temporal/
+│ ├── day_000.txt
+│ └── ...
+└── health/
+├── day_000.txt
+└── ...
+
+
+**Folder description:**
+
+- `frames/`  
+  Contains time-ordered 3D point clouds of the same plant.
+  Each file is a single frame captured at a specific growth stage
+  and stored in `.ply` format with XYZ and RGB information.
+
+- `labels/`  
+  Contains annotations aligned with each corresponding frame.
+  Label files share the same base filename as the frame
+  (e.g., `day_002.ply` ↔ `day_002.npy` / `day_002.txt`).
+
+**Naming convention:**
+
+- `day_xxx` denotes the temporal index of the scan
+- Smaller indices correspond to earlier growth stages
+- Larger indices correspond to later growth stages
+
+This structure is consistent across all three subsets of Pepper-4D.
