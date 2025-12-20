@@ -1,5 +1,9 @@
-
 # Pepper-4D 🌱<br>
+*A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping*
+
+<p align="center">
+  <img src="figures/graphical_abstract.png" width="95%">
+</p>
 
 This repository provides the official dataset release for the paper:<br><br>
 
@@ -38,53 +42,96 @@ generative learning methods on 3D plant point clouds.
 - **Total plants:** 29
 - **Total point clouds:** 916
 - **Total dataset size:** ~20 GB
-- **Data modality:** 3D point clouds (XYZ + RGB)
+- **Data modality:** 3D point clouds (XYZ)
 - **Temporal resolution:** Daily or bi-daily scans
-- **Acquisition method:** Structure-from-Motion (SfM) + NeRF reconstruction
 - **Environment:** Indoor controlled conditions
+
+---
+
+## Dataset Acquisition and Reconstruction<br>
+
+<p align="center">
+  <img src="figures/data_acquisition_pipeline.png" width="95%">
+</p>
+
+Pepper-4D was constructed through a multi-stage pipeline including image
+acquisition, preprocessing, 3D reconstruction, and plant-only point cloud
+generation. Multi-view images were captured for each plant at each time step,
+followed by 3D reconstruction and post-processing to obtain temporally aligned
+point clouds.
 
 ---
 
 ## Dataset Subsets<br>
 
 Pepper-4D consists of three subsets capturing different growth scenarios and
-experimental conditions.
+phenotyping tasks.
 
 ### Subset 1 — Full Lifecycle<br>
+
+<p align="center">
+  <img src="figures/subset1_lifecycle.png" width="95%">
+</p>
+
 - **Plants:** 11  
 - **Point clouds:** 460  
 - **Description:**  
   Long-term monitoring from early vegetative growth to flowering,
   fruiting, and senescence.
-- **Annotations provided:**  
-  - Organ semantic segmentation  
-  - Organ instance segmentation  
-  - Temporal organ tracking  
-  - Plant health classification  
+- **Annotations:**  
+  Semantic, instance, temporal, and health labels.
 
 ---
 
-### Subset 2 — Geotropism Experiments<br>
+### Subset 2 — New Organ Emergence<br>
+
+<p align="center">
+  <img src="figures/subset2_new_organs.png" width="95%">
+</p>
+
 - **Plants:** 8  
 - **Point clouds:** 238  
 - **Description:**  
-  Pepper plants subjected to controlled pot overturning and recovery
-  to study geotropism and structural reorientation.
-- **Annotations provided:**  
-  - New organ detection labels  
-  - Geotropism state labels  
+  Sequences focusing on **new organ emergence and development**.
+- **Annotations:**  
+  New organ detection labels.
 
 ---
 
 ### Subset 3 — Early–Mid Growth<br>
+
+<p align="center">
+  <img src="figures/subset3_growth.png" width="95%">
+</p>
+
 - **Plants:** 10  
 - **Point clouds:** 218  
 - **Description:**  
-  Early and middle growth stages with rapid organ emergence and canopy expansion.
-- **Annotations provided:**  
-  - No manual annotations  
-- **Intended use:**  
-  Unsupervised learning, self-supervised learning, and generative modeling.
+  Early and mid growth stages with rapid structural changes.
+- **Annotations:**  
+  None (intended for unsupervised and generative tasks).
+
+---
+
+## Annotation Examples<br>
+
+### Semantic, Instance, and Temporal Labels (Subset 1)
+
+<p align="center">
+  <img src="figures/semantic_instance_temporal.png" width="95%">
+</p>
+
+### Plant Health Classification
+
+<p align="center">
+  <img src="figures/health_classification.png" width="95%">
+</p>
+
+### New Organ Detection (Subset 2)
+
+<p align="center">
+  <img src="figures/new_organ_detection.png" width="95%">
+</p>
 
 ---
 
@@ -93,7 +140,6 @@ experimental conditions.
 Each plant sequence follows the same directory structure:
 
 ```text
-
 Pepper-4D/
 ├── subset_1/
 │   ├── plant_01/
@@ -103,44 +149,24 @@ Pepper-4D/
 │   │   │   └── ...
 │   │   └── labels/
 │   │       ├── semantic/
-│   │       │   ├── day_000.txt
-│   │       │   └── ...
 │   │       ├── instance/
-│   │       │   ├── day_000.txt
-│   │       │   └── ...
 │   │       ├── temporal/
-│   │       │   ├── day_000.txt
-│   │       │   └── ...
 │   │       └── health/
-│   │           ├── day_000.txt
-│   │           └── ...
-│   ├── plant_02/
-│   │   └── ...
 │   └── ...
 │
 ├── subset_2/
 │   ├── plant_01/
 │   │   ├── frames/
-│   │   │   ├── day_000.txt
-│   │   │   ├── day_002.txt
-│   │   │   └── ...
 │   │   └── labels/
 │   │       └── new_organs_detection/
-│   │           ├── day_000.txt
-│   │           └── ...
-│   ├── plant_02/
-│   │   └── ...
 │   └── ...
 │
 └── subset_3/
     ├── plant_01/
     │   ├── frames/
-    │   │   ├── day_000.txt
-    │   │   └── ...
     │   └── labels/
     │       └── (no annotations)
     └── ...
-
 
 ```
 
