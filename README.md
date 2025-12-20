@@ -5,7 +5,6 @@
   <img src="figures/graphical_abstract.jpg" width="95%">
 </p>
 
-This repository provides the official dataset release for the paper:<br><br>
 
 **Pepper-4D**<br>
 
