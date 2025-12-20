@@ -51,7 +51,7 @@ generative learning methods on 3D plant point clouds.
 ## Dataset Acquisition and Reconstruction<br>
 
 <p align="center">
-  <img src="data_acquisition_pipeline.jpg" width="95%">
+  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
 </p>
 
 Pepper-4D was constructed through a multi-stage pipeline including image
