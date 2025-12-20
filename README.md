@@ -198,6 +198,52 @@ Pepper-4D/
 - `health/`  
   Frame-level plant health labels (`normal` or `withering`).
 
+## Supported Tasks<br>
+
+Pepper-4D supports the following research tasks:
+
+- Plant health classification  
+- Organ semantic segmentation  
+- Organ instance segmentation  
+- Organ growth tracking  
+- New organ detection  
+- Spatiotemporal plant phenotyping  
+- 3D plant generation and data augmentation  
+
+---
+
+## Data Download<br>
+
+Due to the large size of the dataset (~20 GB), Pepper-4D is hosted externally.
+
+**Download link:**  
+👉 **TO_BE_UPDATED (Google Drive / OneDrive)**
+
+Please keep the original directory structure after downloading.
+
+---
+
+## License<br>
+
+Pepper-4D is released under the **Creative Commons Attribution 4.0 (CC BY 4.0)**
+license. You are free to use, modify, and redistribute the dataset with proper
+attribution.
+
+---
+
+## Citation<br>
+
+If you use Pepper-4D in your research, please cite our paper:
+
+```bibtex
+@article{pepper4d,
+  title   = {Pepper-4D: A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping},
+  author  = {Ahmed, Foysal and others},
+  journal = {To be updated},
+  year    = {2025}
+}
+
+
 **Naming convention:**
 
 - `day_xxx` indicates the temporal index of the scan.
