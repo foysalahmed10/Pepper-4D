@@ -213,6 +213,11 @@ Pepper-4D/
 - `health/`  
   Frame-level plant health labels (`normal` or `withering`).
 
+- `new_organs_detection/`  
+  Detection of new plant organs on crop point clouds is a task focusing on identifying emergent budding/new leaves in the 3D growth sequence.
+
+  
+
 ## Supported Tasks<br>
 
 Pepper-4D supports the following research tasks:
@@ -254,6 +259,7 @@ If you use Pepper-4D in your research, please cite our paper:
   year    = {2025}
 }
 
+---
 
-This directory structure is consistent across all subsets of Pepper-4D.
+---------
 
