@@ -2,7 +2,7 @@
 *A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping*
 
 <p align="center">
-  <img src="figures/graphical_abstract.png" width="95%">
+  <img src="figures/graphical_abstract.jpg" width="95%">
 </p>
 
 This repository provides the official dataset release for the paper:<br><br>
