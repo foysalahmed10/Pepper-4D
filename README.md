@@ -244,9 +244,6 @@ Please keep the original directory structure after downloading.
 ---
 
 
-
----
-
 ## Citation<br>
 
 If you use Pepper-4D in your research, please cite our paper:
@@ -260,6 +257,4 @@ If you use Pepper-4D in your research, please cite our paper:
 }
 
 ---
-
----------
 
