@@ -9,7 +9,7 @@ This repository provides the official dataset release for the paper:<br><br>
 
 **Pepper-4D: A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping**<br>
 
-F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao*<br>
+F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao<br>
 <ins>†</ins> *Equal contribution*<br>
 <ins>*</ins> *Corresponding author*<br><br>
 
