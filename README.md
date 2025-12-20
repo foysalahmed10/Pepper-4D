@@ -322,7 +322,7 @@ Pepper-4D supports the following research tasks:
 - Organ growth tracking  
 - New organ detection  
 - Spatiotemporal plant phenotyping  
-- 3D plant generation and data augmentation  
+- 3D plant generation   
 
 ---
 
