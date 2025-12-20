@@ -125,12 +125,9 @@ Pepper-4D/
 │   │   │   ├── day_002.txt
 │   │   │   └── ...
 │   │   └── labels/
-│   │       ├── new_organs_detection/
+│   │       └── new_organs_detection/
 │   │           ├── day_000.txt
 │   │           └── ...
-│   │       
-│   │           
-│   │           
 │   ├── plant_02/
 │   │   └── ...
 │   └── ...
@@ -143,6 +140,7 @@ Pepper-4D/
     │   └── labels/
     │       └── (no annotations)
     └── ...
+
 
 
 
