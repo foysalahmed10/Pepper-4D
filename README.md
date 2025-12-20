@@ -120,7 +120,7 @@ representative publicly available 3D crop datasets.
       <td align="center">Yes</td>
     </tr>
     <tr>
-      <td align="center">MaizeField3D (2026)</td>
+      <td align="center">MaizeField3D (2025)</td>
       <td align="center">Maize</td>
       <td align="center">1045</td>
       <td align="center">No</td>
@@ -128,7 +128,7 @@ representative publicly available 3D crop datasets.
       <td align="center">Yes</td>
     </tr>
     <tr>
-      <td align="center"><b>Pepper-4D (2025)</b></td>
+      <td align="center"><b>Pepper-4D (2026)</b></td>
       <td align="center"><b>Pepper</b></td>
       <td align="center"><b>916</b></td>
       <td align="center"><b>Yes</b></td>
