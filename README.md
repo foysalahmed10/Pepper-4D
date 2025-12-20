@@ -60,7 +60,7 @@ representative publicly available 3D crop datasets.
 | PLANesT-3D (2024) | Pepper, Rose, Ribes | – | No | SfM-MVS | Yes |
 | BonnBeetClouds3D (2024) | Sugar Beet | – | No | UAV Photogrammetry | Yes |
 | Crops3D (2024) | Multiple species | – | Partial | SfM-MVS, TLS | Yes |
-| MaizeField3D (2025) | Maize | – | No | TLS + Procedural | Yes |
+| MaizeField3D (2026) | Maize | – | No | TLS + Procedural | Yes |
 | **Pepper-4D (2025)** | **Pepper** | **916** | **Yes** | **SfM + NeRF** | **Yes** |
 
 
