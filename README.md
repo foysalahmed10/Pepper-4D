@@ -223,11 +223,7 @@ Please keep the original directory structure after downloading.
 
 ---
 
-## License<br>
 
-Pepper-4D is released under the **Creative Commons Attribution 4.0 (CC BY 4.0)**
-license. You are free to use, modify, and redistribute the dataset with proper
-attribution.
 
 ---
 
@@ -243,12 +239,6 @@ If you use Pepper-4D in your research, please cite our paper:
   year    = {2025}
 }
 
-
-**Naming convention:**
-
-- `day_xxx` indicates the temporal index of the scan.
-- Smaller indices correspond to earlier growth stages.
-- Larger indices correspond to later growth stages.
 
 This directory structure is consistent across all subsets of Pepper-4D.
 
