@@ -70,7 +70,7 @@ phenotyping tasks.
 ### Subset 1 — Full Lifecycle<br>
 
 <p align="center">
-  <img src="figures/subset1_lifecycle.png" width="95%">
+  <img src="figures/subset1_lifecycle.jpg" width="95%">
 </p>
 
 - **Plants:** 11  
@@ -86,7 +86,7 @@ phenotyping tasks.
 ### Subset 2 — New Organ Emergence<br>
 
 <p align="center">
-  <img src="figures/subset2_new_organs.png" width="95%">
+  <img src="figures/subset2_new_organs.jpg" width="95%">
 </p>
 
 - **Plants:** 8  
@@ -100,10 +100,6 @@ phenotyping tasks.
 
 ### Subset 3 — Early–Mid Growth<br>
 
-<p align="center">
-  <img src="figures/subset3_growth.png" width="95%">
-</p>
-
 - **Plants:** 10  
 - **Point clouds:** 218  
 - **Description:**  
@@ -113,26 +109,45 @@ phenotyping tasks.
 
 ---
 
-## Annotation Examples<br>
+## Tasks and Results <br>
 
-### Semantic, Instance, and Temporal Labels (Subset 1)
 
-<p align="center">
-  <img src="figures/semantic_instance_temporal.png" width="95%">
-</p>
 
-### Plant Health Classification
+### Health assessment by classification
 
 <p align="center">
-  <img src="figures/health_classification.png" width="95%">
+  <img src="figures/health_classification.jpg" width="95%">
 </p>
 
-### New Organ Detection (Subset 2)
+### Organ Semantic Segmentation 
 
 <p align="center">
-  <img src="figures/new_organ_detection.png" width="95%">
+  <img src="figures/semantic.jpg" width="95%">
 </p>
 
+### Organ Instance Segmentation 
+
+<p align="center">
+  <img src="figures/instance.jpg" width="95%">
+</p>
+
+### New Organ Detection
+
+<p align="center">
+  <img src="figures/new_organ_detection.jpg" width="95%">
+</p>
+
+### Organ tracking 
+
+<p align="center">
+  <img src="figures/temporal.jpg" width="95%">
+</p>
+
+### Generating natural and vivid 3D plants
+
+<p align="center">
+  <img src="figures/GAN.jpg" width="95%">
+</p>
 ---
 
 ## Dataset Structure<br>
