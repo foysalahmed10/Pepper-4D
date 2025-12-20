@@ -51,17 +51,93 @@ generative learning methods on 3D plant point clouds.
 The following table provides a high-level comparison between Pepper-4D and
 representative publicly available 3D crop datasets.
 
-| Dataset | Species | # Point Clouds | Temporal Coverage | Acquisition Modality | Color |
-|--------|---------|----------------|-------------------|----------------------|-------|
-| Conn et al. (2017) | Tomato, Tobacco, Sorghum | 558 | Yes | Laser | No |
-| ROSE-X (2020) | Rose | 11 | No | X-ray CT | No |
-| Pheno4D (2021) | Maize, Tomato | 126 | Yes | Laser | No |
-| Soybean-MVS (2023) | Soybean | 102 | Yes | MVS | Yes |
-| PLANesT-3D (2024) | Pepper, Rose, Ribes | 34 | No | SfM-MVS | Yes |
-| BonnBeetClouds3D (2024) | Sugar Beet | 3000 | No | UAV Photogrammetry | Yes |
-| Crops3D (2024) | Multiple species | 1230 | Partial | SfM-MVS, TLS | Yes |
-| MaizeField3D (2026) | Maize | 1045 | No | TLS + Procedural | Yes |
-| **Pepper-4D (2025)** | **Pepper** | **916** | **Yes** | **SfM + NeRF** | **Yes** |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Dataset</th>
+      <th align="center">Species</th>
+      <th align="center"># Point Clouds</th>
+      <th align="center">Temporal Coverage</th>
+      <th align="center">Acquisition Modality</th>
+      <th align="center">Color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Conn et al. (2017)</td>
+      <td align="center">Tomato, Tobacco, Sorghum</td>
+      <td align="center">558</td>
+      <td align="center">Yes</td>
+      <td align="center">Laser</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">ROSE-X (2020)</td>
+      <td align="center">Rose</td>
+      <td align="center">11</td>
+      <td align="center">No</td>
+      <td align="center">X-ray CT</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">Pheno4D (2021)</td>
+      <td align="center">Maize, Tomato</td>
+      <td align="center">126</td>
+      <td align="center">Yes</td>
+      <td align="center">Laser</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">Soybean-MVS (2023)</td>
+      <td align="center">Soybean</td>
+      <td align="center">102</td>
+      <td align="center">Yes</td>
+      <td align="center">MVS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">PLANesT-3D (2024)</td>
+      <td align="center">Pepper, Rose, Ribes</td>
+      <td align="center">34</td>
+      <td align="center">No</td>
+      <td align="center">SfM-MVS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">BonnBeetClouds3D (2024)</td>
+      <td align="center">Sugar Beet</td>
+      <td align="center">3000</td>
+      <td align="center">No</td>
+      <td align="center">UAV Photogrammetry</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">Crops3D (2024)</td>
+      <td align="center">Multiple species</td>
+      <td align="center">1230</td>
+      <td align="center">Partial</td>
+      <td align="center">SfM-MVS, TLS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">MaizeField3D (2026)</td>
+      <td align="center">Maize</td>
+      <td align="center">1045</td>
+      <td align="center">No</td>
+      <td align="center">TLS + Procedural</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Pepper-4D (2025)</b></td>
+      <td align="center"><b>Pepper</b></td>
+      <td align="center"><b>916</b></td>
+      <td align="center"><b>Yes</b></td>
+      <td align="center"><b>SfM + NeRF</b></td>
+      <td align="center"><b>Yes</b></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ---
