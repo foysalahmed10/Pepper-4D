@@ -53,14 +53,14 @@ representative publicly available 3D crop datasets.
 
 | Dataset | Species | # Point Clouds | Temporal Coverage | Acquisition Modality | Color |
 |--------|---------|----------------|-------------------|----------------------|-------|
-| Conn et al. (2017) | Tomato, Tobacco, Sorghum | – | Yes | Laser | No |
-| ROSE-X (2020) | Rose | – | No | X-ray CT | No |
-| Pheno4D (2021) | Maize, Tomato | – | Yes | Laser | No |
-| Soybean-MVS (2023) | Soybean | – | Yes | MVS | Yes |
-| PLANesT-3D (2024) | Pepper, Rose, Ribes | – | No | SfM-MVS | Yes |
-| BonnBeetClouds3D (2024) | Sugar Beet | – | No | UAV Photogrammetry | Yes |
-| Crops3D (2024) | Multiple species | – | Partial | SfM-MVS, TLS | Yes |
-| MaizeField3D (2026) | Maize | – | No | TLS + Procedural | Yes |
+| Conn et al. (2017) | Tomato, Tobacco, Sorghum | 558 | Yes | Laser | No |
+| ROSE-X (2020) | Rose | 11 | No | X-ray CT | No |
+| Pheno4D (2021) | Maize, Tomato | 126 | Yes | Laser | No |
+| Soybean-MVS (2023) | Soybean | 102 | Yes | MVS | Yes |
+| PLANesT-3D (2024) | Pepper, Rose, Ribes | 34 | No | SfM-MVS | Yes |
+| BonnBeetClouds3D (2024) | Sugar Beet | 3000 | No | UAV Photogrammetry | Yes |
+| Crops3D (2024) | Multiple species | 1230 | Partial | SfM-MVS, TLS | Yes |
+| MaizeField3D (2026) | Maize | 1045 | No | TLS + Procedural | Yes |
 | **Pepper-4D (2025)** | **Pepper** | **916** | **Yes** | **SfM + NeRF** | **Yes** |
 
 
