@@ -45,6 +45,25 @@ generative learning methods on 3D plant point clouds.
 - **Temporal resolution:** Bi-daily scans
 - **Environment:** Indoor controlled conditions
 
+
+## Comparison with Existing 3D Crop Datasets<br>
+
+The following table provides a high-level comparison between Pepper-4D and
+representative publicly available 3D crop datasets.
+
+| Dataset | Species | Temporal Coverage | Acquisition Modality | Color |
+|--------|---------|-------------------|----------------------|-------|
+| Conn et al. (2017) | Tomato, Tobacco, Sorghum | Yes | Laser | No |
+| ROSE-X (2020) | Rose | No | X-ray CT | No |
+| Pheno4D (2021) | Maize, Tomato | Yes | Laser | No |
+| Soybean-MVS (2023) | Soybean | Yes | MVS | Yes |
+| PLANesT-3D (2024) | Pepper, Rose, Ribes | No | SfM-MVS | Yes |
+| BonnBeetClouds3D (2024) | Sugar Beet | No | UAV Photogrammetry | Yes |
+| Crops3D (2024) | Multiple species | Partial | SfM-MVS, TLS | Yes |
+| MaizeField3D (2025) | Maize | No | TLS + Procedural | Yes |
+| **Pepper-4D (2025)** | **Pepper** | **Yes** | **SfM + NeRF** | **Yes** |
+
+
 ---
 
 ## Dataset Acquisition and Reconstruction<br>
