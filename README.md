@@ -92,42 +92,61 @@ experimental conditions.
 
 Each plant sequence follows the same directory structure:
 
+```text
 subset_x/plant_xx/
 ├── frames/
-│ ├── day_000.txt
-│ ├── day_002.txt
-│ └── ...
+│   ├── day_000.txt
+│   ├── day_002.txt
+│   └── ...
 └── labels/
-├── semantic/
-│ ├── day_000.txt
-│ └── ...
-├── instance/
-│ ├── day_000.txt
-│ └── ...
-├── temporal/
-│ ├── day_000.txt
-│ └── ...
-└── health/
-├── day_000.txt
-└── ...
+    ├── semantic/
+    │   ├── day_000.txt
+    │   └── ...
+    ├── instance/
+    │   ├── day_000.txt
+    │   └── ...
+    ├── temporal/
+    │   ├── day_000.txt
+    │   └── ...
+    └── health/
+        ├── day_000.txt
+        └── ...
+```
+
+
 
 
 **Folder description:**
 
 - `frames/`  
   Contains time-ordered 3D point clouds of the same plant.
-  Each file is a single frame captured at a specific growth stage
-  and stored in `.ply` format with XYZ and RGB information.
+  Each file corresponds to one temporal scan and is stored in plain text
+  format (`.txt`) with XYZ coordinates (and optional additional attributes).
 
 - `labels/`  
   Contains annotations aligned with each corresponding frame.
   Label files share the same base filename as the frame
-  (e.g., `day_002.ply` ↔ `day_002.npy` / `day_002.txt`).
+  (e.g., `day_002.txt` in `frames/` ↔ `day_002.txt` in `labels/`).
+
+- `semantic/`  
+  Point-wise semantic segmentation labels (e.g., stem, leaf).
+
+- `instance/`  
+  Point-wise instance segmentation labels, where each unique integer
+  corresponds to an individual leaf.
+
+- `temporal/`  
+  Point-wise temporal tracking labels, where the same ID across frames
+  denotes the same physical organ over time.
+
+- `health/`  
+  Frame-level plant health labels (`normal` or `withering`).
 
 **Naming convention:**
 
-- `day_xxx` denotes the temporal index of the scan
-- Smaller indices correspond to earlier growth stages
-- Larger indices correspond to later growth stages
+- `day_xxx` indicates the temporal index of the scan.
+- Smaller indices correspond to earlier growth stages.
+- Larger indices correspond to later growth stages.
 
-This structure is consistent across all three subsets of Pepper-4D.
+This directory structure is consistent across all subsets of Pepper-4D.
+
