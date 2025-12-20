@@ -92,26 +92,56 @@ experimental conditions.
 
 Each plant sequence follows the same directory structure:
 
-```text
-subset_x/plant_xx/
-├── frames/
-│   ├── day_000.txt
-│   ├── day_002.txt
+Pepper-4D/
+├── subset_1/
+│   ├── plant_01/
+│   │   ├── frames/
+│   │   │   ├── day_000.txt
+│   │   │   ├── day_002.txt
+│   │   │   └── ...
+│   │   └── labels/
+│   │       ├── semantic/
+│   │       │   ├── day_000.txt
+│   │       │   └── ...
+│   │       ├── instance/
+│   │       │   ├── day_000.txt
+│   │       │   └── ...
+│   │       ├── temporal/
+│   │       │   ├── day_000.txt
+│   │       │   └── ...
+│   │       └── health/
+│   │           ├── day_000.txt
+│   │           └── ...
+│   ├── plant_02/
+│   │   └── ...
 │   └── ...
-└── labels/
-    ├── semantic/
-    │   ├── day_000.txt
-    │   └── ...
-    ├── instance/
-    │   ├── day_000.txt
-    │   └── ...
-    ├── temporal/
-    │   ├── day_000.txt
-    │   └── ...
-    └── health/
-        ├── day_000.txt
-        └── ...
-```
+│
+├── subset_2/
+│   ├── plant_01/
+│   │   ├── frames/
+│   │   │   ├── day_000.txt
+│   │   │   ├── day_002.txt
+│   │   │   └── ...
+│   │   └── labels/
+│   │       ├── new_organs_detection/
+│   │           ├── day_000.txt
+│   │           └── ...
+│   │       
+│   │           
+│   │           
+│   ├── plant_02/
+│   │   └── ...
+│   └── ...
+│
+└── subset_3/
+    ├── plant_01/
+    │   ├── frames/
+    │   │   ├── day_000.txt
+    │   │   └── ...
+    │   └── labels/
+    │       └── (no annotations)
+    └── ...
+
 
 
 
