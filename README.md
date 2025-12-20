@@ -1,12 +1,11 @@
-<h1 align="center">Pepper-4D </h1>
-<p align="center"><i>  </i></p>
 
 <p align="center">
   <img src="figures/graphical_abstract.jpg" width="95%">
 </p>
 
 
-**Pepper-4D**<br>
+<h1 align="center">Pepper-4D </h1>
+<p align="center"><i>  </i></p>
 
 F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao<br>
 <ins>†</ins> *Equal contribution*<br>
