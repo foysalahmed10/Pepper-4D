@@ -199,7 +199,7 @@ phenotyping tasks.
 - **Description:**  
   Early and mid growth stages with rapid structural changes.
 - **Annotations:**  
-  None (intended for unsupervised and generative tasks).
+  None 
 
 ---
 
