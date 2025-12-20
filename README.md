@@ -40,6 +40,7 @@ generative learning methods on 3D plant point clouds.
 - **Species:** Pepper (*Capsicum annuum*)
 - **Total plants:** 29
 - **Total point clouds:** 916
+- **Total points:** 322.72 million
 - **Total dataset size:** ~20 GB
 - **Data modality:** 3D point clouds (XYZ)
 - **Temporal resolution:** Bi-daily scans
