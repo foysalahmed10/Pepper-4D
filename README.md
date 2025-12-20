@@ -1,5 +1,5 @@
-# Pepper-4D 🌱<br>
-*A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping*
+<h1 align="center">Pepper-4D 🌱</h1>
+<p align="center"><i>A Spatiotemporal 3D Point Cloud Dataset for Pepper Plant Phenotyping</i></p>
 
 <p align="center">
   <img src="figures/graphical_abstract.jpg" width="95%">
