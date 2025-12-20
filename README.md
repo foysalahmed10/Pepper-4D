@@ -148,7 +148,7 @@ phenotyping tasks.
 <p align="center">
   <img src="figures/GAN.jpg" width="95%">
 </p>
----
+
 
 ## Dataset Structure<br>
 
