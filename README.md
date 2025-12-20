@@ -43,7 +43,7 @@ generative learning methods on 3D plant point clouds.
 - **Total point clouds:** 916
 - **Total dataset size:** ~20 GB
 - **Data modality:** 3D point clouds (XYZ)
-- **Temporal resolution:** Daily or bi-daily scans
+- **Temporal resolution:** Bi-daily scans
 - **Environment:** Indoor controlled conditions
 
 ---
