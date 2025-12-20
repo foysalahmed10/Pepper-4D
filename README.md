@@ -1,4 +1,4 @@
-<h1 align="center">Pepper-4D 🌱</h1>
+<h1 align="center">Pepper-4D </h1>
 <p align="center"><i>  </i></p>
 
 <p align="center">
