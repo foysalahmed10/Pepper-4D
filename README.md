@@ -92,6 +92,8 @@ experimental conditions.
 
 Each plant sequence follows the same directory structure:
 
+```text
+
 Pepper-4D/
 ├── subset_1/
 │   ├── plant_01/
