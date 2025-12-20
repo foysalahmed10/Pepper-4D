@@ -333,7 +333,6 @@ Due to the large size of the dataset (~20 GB), Pepper-4D is hosted externally.
 **Download link:**  
 👉 **TO_BE_UPDATED (Google Drive / OneDrive)**
 
-Please keep the original directory structure after downloading.
 
 ---
 
@@ -347,7 +346,7 @@ If you use Pepper-4D in your research, please cite our paper:
   title   = {Pepper-4D},
   author  = {Ahmed, Foysal and others},
   journal = {To be updated},
-  year    = {2025}
+  year    = {2026}
 }
 
 
