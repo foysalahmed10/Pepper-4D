@@ -177,7 +177,7 @@ phenotyping tasks.
 
 ---
 
-### Subset 2 — New Organ Emergence<br>
+### Subset 2 — Geotropism Tests <br>
 
 <p align="center">
   <img src="figures/subset2_new_organs.jpg" width="95%">
@@ -186,7 +186,7 @@ phenotyping tasks.
 - **Plants:** 8  
 - **Point clouds:** 238  
 - **Description:**  
-  Sequences focusing on **new organ emergence and development**.
+  Sequences focusing on **new organ detection and Geotropism tests**.
 - **Annotations:**  
   New organ detection labels.
 
