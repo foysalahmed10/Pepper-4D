@@ -57,7 +57,7 @@ representative publicly available 3D crop datasets.
       <th align="center">Dataset</th>
       <th align="center">Species</th>
       <th align="center"># Point Clouds</th>
-      <th align="center">Temporal Coverage (4D)</th>
+      <th align="center"># Temporal Coverage (4D)</th>
       <th align="center">Acquisition Modality</th>
       <th align="center">Color</th>
     </tr>
