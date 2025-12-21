@@ -24,7 +24,7 @@ While recent advances in 2D and 3D vision have accelerated research in plant
 phenotyping, publicly available **spatiotemporal 3D datasets for pepper plants**
 remain extremely limited.
 
-Pepper-4D addresses this gap by providing a **large-scale 4D (3D + time) point
+Pepper-4D addresses this gap by providing a **comprehensive 4D (3D + time) point
 cloud dataset** capturing the complete growth and developmental process of
 pepper plants under controlled indoor conditions.
 The dataset enables detailed analysis of plant structure, organ dynamics,
