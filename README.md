@@ -176,7 +176,7 @@ phenotyping tasks.
   Semantic, instance, temporal, and health labels.
 
   <p align="center">
-  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+  <img src="figures/Subset_1.png" width="95%">
 </p
 
 ---
@@ -195,7 +195,7 @@ phenotyping tasks.
   New organ detection labels.
 
 <p align="center">
-  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+  <img src="figures/Subset_2.png" width="95%">
 </p
 ---
 
@@ -209,7 +209,7 @@ phenotyping tasks.
   None
 
   <p align="center">
-  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+  <img src="figures/Subset_3.png" width="95%">
 </p
 
 ---
