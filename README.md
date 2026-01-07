@@ -26,9 +26,7 @@ F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao<br>
 - [Dataset Structure](#dataset-structure)
 - [Supported Tasks](#supported-tasks)
 - [Data Download](#data-download)
-- [License](#license)
 - [Citation](#citation)
-- [Contact](#contact)
 
 ---
 
