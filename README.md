@@ -175,6 +175,10 @@ phenotyping tasks.
 - **Annotations:**  
   Semantic, instance, temporal, and health labels.
 
+  <p align="center">
+  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+</p
+
 ---
 
 ### Subset 2 — Geotropism Tests <br>
@@ -190,6 +194,9 @@ phenotyping tasks.
 - **Annotations:**  
   New organ detection labels.
 
+<p align="center">
+  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+</p
 ---
 
 ### Subset 3 — Early–Mid Growth<br>
@@ -199,7 +206,11 @@ phenotyping tasks.
 - **Description:**  
   Early and mid growth stages with rapid structural changes.
 - **Annotations:**  
-  None 
+  None
+
+  <p align="center">
+  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+</p
 
 ---
 
