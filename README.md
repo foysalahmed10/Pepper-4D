@@ -173,7 +173,6 @@ phenotyping tasks.
   Long-term monitoring from early vegetative growth to flowering,
   fruiting, and senescence.
 - **Annotations:**  
-  Semantic, instance, temporal, and health labels.
 
   <p align="center">
   <img src="figures/Subset_1.png" width="95%">
@@ -192,7 +191,6 @@ phenotyping tasks.
 - **Description:**  
   Sequences focusing on **new organ detection and Geotropism tests**.
 - **Annotations:**  
-  New organ detection labels.
 
 <p align="center">
   <img src="figures/Subset_2.png" width="95%">
@@ -206,7 +204,6 @@ phenotyping tasks.
 - **Description:**  
   Early and mid growth stages with rapid structural changes.
 - **Annotations:**  
-  None
 
   <p align="center">
   <img src="figures/Subset_3.png" width="95%">
