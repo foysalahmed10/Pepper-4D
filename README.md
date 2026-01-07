@@ -16,6 +16,23 @@ F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao<br>
 
 ---
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Dataset Overview](#dataset-overview)
+- [Comparison with Existing 3D Crop Datasets](#comparison-with-existing-3d-crop-datasets)
+- [Dataset Acquisition and Reconstruction](#dataset-acquisition-and-reconstruction)
+- [Dataset Subsets](#dataset-subsets)
+- [Tasks and Results](#tasks-and-results)
+- [Dataset Structure](#dataset-structure)
+- [Supported Tasks](#supported-tasks)
+- [Data Download](#data-download)
+- [License](#license)
+- [Citation](#citation)
+- [Contact](#contact)
+
+---
+
+
 ## Introduction<br>
 
 Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
