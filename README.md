@@ -18,6 +18,7 @@ Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhic
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Cultivation and Data Collection Conditions](#Cultivation-and-Data-Collection-Conditions)
 - [Dataset Overview](#dataset-overview)
 - [Comparison with Existing 3D Crop Datasets](#comparison-with-existing-3d-crop-datasets)
 - [Dataset Acquisition and Reconstruction](#dataset-acquisition-and-reconstruction)
