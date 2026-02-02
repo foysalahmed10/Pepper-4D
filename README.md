@@ -312,14 +312,14 @@ Pepper-4D/
 │   └── ...
 │
 ├── subset_2/
-│   ├── plant_01/
+│   ├── plant_12/
 │   │   ├── frames/
 │   │   └── labels/
 │   │       └── new_organs_detection/
 │   └── ...
 │
 └── subset_3/
-    ├── plant_01/
+    ├── plant_20/
     │   ├── frames/
     │   └── labels/
     │       └── (no annotations)
