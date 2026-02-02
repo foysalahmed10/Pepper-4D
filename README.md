@@ -66,7 +66,7 @@ The month ranges (e.g., July–December) denote the overall cultivation period; 
 - **Total points:** 322.72 million
 - **Total dataset size:** ~20 GB
 - **Data modality:** 3D point clouds (XYZ)
-- **Temporal resolution:** Bi-daily scans
+- **Temporal resolution:** intended ~2-day interval after minimum plant size (variable by plant/sequence)
 - **Environment:** Indoor controlled conditions
 
 
@@ -244,11 +244,11 @@ phenotyping tasks.
 We provide experimental notes and baseline resources used in the manuscript to facilitate reproduction.
 
 Reference implementations:
-- PointNet/PointNet++: https://github.com/yanx27/Pointnet_Pointnet2_pytorch
-- DGCNN: https://github.com/WangYueFt/dgcnn
-- PlantNet/PSegNet: https://github.com/Huang2002200/PlantNet-and-PSegNet
-- 3D New-Organ Detection: https://github.com/zingersu/3D-New-Organ-Detection-in-Plant-Growth-from-Spatiotemporal-Point-Clouds
-- TrackPlant3D: https://github.com/entarot/TrackPlant3D-3D-organ-growth-tracking-framework-for-organ-level-dynamic-phenotyping
+- **PointNet/PointNet++:** https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+- **DGCNN:** https://github.com/WangYueFt/dgcnn
+- **PlantNet/PSegNet:** https://github.com/Huang2002200/PlantNet-and-PSegNet
+- **3D-NOD:** https://github.com/zingersu/3D-New-Organ-Detection-in-Plant-Growth-from-Spatiotemporal-Point-Clouds
+- **TrackPlant3D:** https://github.com/entarot/TrackPlant3D-3D-organ-growth-tracking-framework-for-organ-level-dynamic-phenotyping
 
 ---
 
