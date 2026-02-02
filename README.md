@@ -374,12 +374,14 @@ Pepper-4D supports the following research tasks:
 
 ---
 
-## Data Download<br>
 
-Due to the large size of the dataset (~20 GB), Pepper-4D is hosted externally.
+## Download links (Google Drive) <br>
 
-**Download link:**  
-👉 **TO_BE_UPDATED (Google Drive / OneDrive)**
+The Pepper-4D dataset is released as three subsets:
+
+- **Subset 1:** https://drive.google.com/file/d/1QaVhq-pLecNWbuebhaSLQz-feMlvf6WW/view?usp=sharing  
+- **Subset 2:** https://drive.google.com/file/d/1peFnv299XyrqcFyF-_yrboo7hrXWojYy/view?usp=sharing  
+- **Subset 3:** https://drive.google.com/file/d/1rHYsEUiYMSYcHCpVFPSOjPi7-W3IUuNR/view?usp=sharing
 
 
 ---
