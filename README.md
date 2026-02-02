@@ -7,7 +7,7 @@
 <h1 align="center">Pepper-4D </h1>
 <p align="center"><i>  </i></p>
 
-F. Ahmed†, D. Li†, Z. Wang, S. Jobaer, J. Huang, T. Li, J. Hou, B. Zhao<br>
+Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhicheng Li; Jingjing Huang; Jiahui Hou; Sayed Jobaer; Han Yan*<br>
 <ins>†</ins> *Equal contribution*<br>
 <ins>*</ins> *Corresponding author*<br><br>
 
