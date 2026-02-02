@@ -237,7 +237,7 @@ phenotyping tasks.
 ---
 
 
-## Tasks and Results <br>
+## Tasks and Results<br>
 ---
 
 ### Reproducibility and Baselines
