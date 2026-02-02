@@ -33,19 +33,7 @@ Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhic
 
 ## Introduction<br>
 
-Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
-plant structure, organ-level traits, and growth dynamics.
-While recent advances in 2D and 3D vision have accelerated research in plant
-phenotyping, publicly available **spatiotemporal 3D datasets for pepper plants**
-remain extremely limited.
-
-Pepper-4D addresses this gap by providing a **comprehensive 4D (3D + time) point
-cloud dataset** capturing the complete growth and developmental process of
-pepper plants under controlled indoor conditions.
-The dataset enables detailed analysis of plant structure, organ dynamics,
-temporal growth patterns, and plant health status.
-Pepper-4D is designed as a benchmark resource for both discriminative and
-generative learning methods on 3D plant point clouds.
+Pepper-4D is an open 4D (spatiotemporal) point-cloud dataset capturing pepper (*Capsicum annuum*) development from early growth to senescence under controlled indoor conditions. With **916** point clouds from **29** plants and rich temporal/organ annotations, it provides a benchmark and practical resource for dynamic plant phenotyping, including health assessment, organ segmentation, new-organ emergence, growth tracking, and 3D virtual plant generation.
 
 ---
 
