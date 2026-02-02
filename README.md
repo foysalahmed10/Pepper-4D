@@ -249,6 +249,8 @@ Reference implementations:
 - **PlantNet/PSegNet:** https://github.com/Huang2002200/PlantNet-and-PSegNet
 - **3D-NOD:** https://github.com/zingersu/3D-New-Organ-Detection-in-Plant-Growth-from-Spatiotemporal-Point-Clouds
 - **TrackPlant3D:** https://github.com/entarot/TrackPlant3D-3D-organ-growth-tracking-framework-for-organ-level-dynamic-phenotyping
+- **TreeGAN (3D generation):** https://github.com/NNU-GISA/TreeGAN
+- **WarpingGAN (3D generation):** https://github.com/yztang4/WarpingGAN
 
 ---
 
