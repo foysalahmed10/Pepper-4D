@@ -247,11 +247,12 @@ phenotyping tasks.
 
 ---
 
-<br>
 
 ## Tasks and Results <br>
 
-## Reproducibility and Baselines
+---
+
+### Reproducibility and Baselines
 
 We provide experimental notes and baseline resources used in the manuscript to facilitate reproduction.
 
