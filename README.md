@@ -62,13 +62,13 @@ All subsets were collected under the same controlled indoor cultivation conditio
 **Scanning schedule:** Point clouds were scheduled at ~2-day intervals **after plants reached a minimum size suitable for reliable 3D scanning**.  
 The month ranges (e.g., July–December) denote the overall cultivation period; not every plant was scanned at every scheduled timepoint, resulting in unequal sequence lengths.
 
----
 
-The Pepper-4D dataset comprises three distinct subsets that collectively capture developmental diversity and experimental variability in pepper plants cultivated under controlled indoor conditions. Indoor lighting was provided for approximately 12 h per day, with an average ambient temperature of ~25 °C and average relative humidity of ~45%. Point clouds were scheduled to be acquired at two-day intervals once plants reached a minimum size suitable for reliable 3D scanning; the reported month ranges denote the overall cultivation period, and the realized scan times vary across plants (e.g., no scans in the very early seedling stage and occasional missing time points), resulting in unequal sequence lengths. All three subsets were collected under the same indoor cultivation conditions, and representative samples are shown in Fig. 1. Subset 1 (Fig. 1(a)) contains 460 point clouds from 11 potted plant sequences collected during the July–December 2024 cultivation period, covering the full developmental cycle from early vegetative growth to flowering, fruiting, and senescence. Subset 2 (Fig. 1(b)) includes 238 point clouds from 8 plant sequences collected between September and December 2024 for geotropism testing: potted plants were placed on their side (approximately horizontal) for a controlled duration and then restored upright to observe recovery behavior. This subset captures structural reorientation and morphological adaptation under gravitational perturbation. Subset 3 (Fig. 1(c)) consists of 218 point clouds from 10 plant sequences collected during the July–September 2025 cultivation period, focusing on early-to-mid developmental phases characterized by rapid organ emergence and canopy expansion. Together, these subsets span major growth events—including budding, flowering, fruiting, organ disappearance, and withering—making Pepper-4D a comprehensive benchmark for plant-level and organ-level spatiotemporal phenotyping of pepper. <br>
 
 <p align="center">
   <img src="figures/Figure_1.png" width="95%">
 </p>
+
+---
 
 ## Dataset Overview<br>
 
