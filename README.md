@@ -26,7 +26,7 @@ Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhic
 - [Tasks and Results](#tasks-and-results)
 - [Dataset Structure](#dataset-structure)
 - [Supported Tasks](#supported-tasks)
-- [Download links (Google Drive)](#Download-links-(Google-Drive))
+- [Download links](#Download-links)
 - [Citation](#citation)
 
 ---
@@ -375,7 +375,7 @@ Pepper-4D supports the following research tasks:
 ---
 
 
-## Download links (Google Drive) <br>
+## Download links <br>
 
 The Pepper-4D dataset is released as three subsets:
 
