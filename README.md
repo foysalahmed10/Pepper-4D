@@ -26,7 +26,7 @@ Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhic
 - [Tasks and Results](#tasks-and-results)
 - [Dataset Structure](#dataset-structure)
 - [Supported Tasks](#supported-tasks)
-- [Data Download](#data-download)
+- [Download links (Google Drive)](#Download-links-(Google-Drive))
 - [Citation](#citation)
 
 ---
