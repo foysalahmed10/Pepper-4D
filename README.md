@@ -241,7 +241,7 @@ phenotyping tasks.
 
 ### Reproducibility and Baselines
 
-We provide experimental notes and baseline resources used in the manuscript to facilitate reproduction. **For preprocessing and data augmentation, we follow the standard settings and routines from the original reference implementations listed below (with only minimal adjustments needed to match Pepper-4D’s input format).**
+We provide experimental notes and baseline resources used in the manuscript to facilitate reproduction. **For preprocessing and data augmentation, we follow the standard settings and routines from the original reference implementations listed below.**
 
 Reference implementations:
 - **PointNet/PointNet++:** https://github.com/yanx27/Pointnet_Pointnet2_pytorch
