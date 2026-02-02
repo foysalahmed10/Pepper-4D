@@ -375,7 +375,7 @@ Pepper-4D supports the following research tasks:
 ---
 
 
-## Download links <br>
+## Download links<br>
 
 The Pepper-4D dataset is released as three subsets:
 
