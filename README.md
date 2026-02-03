@@ -49,7 +49,7 @@ All subsets were collected under the same controlled indoor cultivation conditio
 - **Irrigation:** consistent routine across plants (see paper for details)
 
 **Scanning schedule:** Point clouds were scheduled at ~2-day intervals **after plants reached a minimum size suitable for reliable 3D scanning**.  
-The month ranges (e.g., July–December) denote the overall cultivation period; not every plant was scanned at every scheduled timepoint, resulting in unequal sequence lengths.
+The month ranges (e.g., July–December) denote the overall cultivation period.
 
 
 
