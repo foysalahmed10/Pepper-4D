@@ -175,7 +175,7 @@ representative publicly available 3D crop datasets.
   <img src="figures/data_acquisition_pipeline.jpg" width="95%">
 </p>
 
-Figure 2. Workflow of image acquisition and 3D reconstruction for the Pepper-4D dataset. (a) is the step of image acquisition and preprocessing; (b) shows the 3D reconstruction step using the NeRFacto framework; and (c) shows the preparation step of the plant-only point cloud by pot removal and filtering on the result from Point Cloud Exporter.
+Workflow of image acquisition and 3D reconstruction for the Pepper-4D dataset. (a) is the step of image acquisition and preprocessing; (b) shows the 3D reconstruction step using the NeRFacto framework; and (c) shows the preparation step of the plant-only point cloud by pot removal and filtering on the result from Point Cloud Exporter.
 
 
 - **Neural Radiance Field (NeRF):** https://docs.nerf.studio/
@@ -193,7 +193,7 @@ phenotyping tasks.
   <img src="figures/subset1_lifecycle.jpg" width="95%">
 </p>
 
-Figure 3. Illustration of the annotation on a pepper point cloud sequence of Subset 1 from Pep-per-4D dataset. From top to bottom: row (a) shows the original point clouds reconstructed across a series of consecutive growth stages from the same sequence; (b) shows the manually-annotated organ instance labels (including individual leaf instances and the stem) with different colors; (c) shows manually-annotated organ semantic labels (stem class and leaf class); (d) shows tempo-rally-aligned organ instance indices across time for organ tracking; and (e) shows the plant-level health status labels covering from the normal (green) stages to the withering (yellow) stages. The interval of the data is 2 days.
+Illustration of the annotation on a pepper point cloud sequence of Subset 1 from Pep-per-4D dataset. From top to bottom: row (a) shows the original point clouds reconstructed across a series of consecutive growth stages from the same sequence; (b) shows the manually-annotated organ instance labels (including individual leaf instances and the stem) with different colors; (c) shows manually-annotated organ semantic labels (stem class and leaf class); (d) shows tempo-rally-aligned organ instance indices across time for organ tracking; and (e) shows the plant-level health status labels covering from the normal (green) stages to the withering (yellow) stages. The interval of the data is 2 days.
 
 - **Plants:** 11  
 - **Point clouds:** 460  
@@ -214,7 +214,7 @@ Figure 3. Illustration of the annotation on a pepper point cloud sequence of Sub
   <img src="figures/subset2_new_organs.jpg" width="95%">
 </p
 
-Figure 4. Representative annotation on a pepper point cloud sequence of Subset 2 from Pep-per-4D dataset. Row (a) shows the original point clouds of the pepper sequence, in which the stages containing the geotropism event are labeled as “Geotropism”. Row (b) presents annotations of the organ-level growth event (new organ) using the Backwards & Forward Labelling (BFL) mechanism proposed in [31].
+Representative annotation on a pepper point cloud sequence of Subset 2 from Pep-per-4D dataset. Row (a) shows the original point clouds of the pepper sequence, in which the stages containing the geotropism event are labeled as “Geotropism”. Row (b) presents annotations of the organ-level growth event (new organ) using the Backwards & Forward Labelling (BFL) mechanism proposed in [31].
 
 
 - **Plants:** 8  
@@ -267,7 +267,7 @@ Reference implementations:
   <img src="figures/health_classification.jpg" width="95%">
 </p>
 
-Figure 6. The comparative qualitative results of health assessment on Pepper-4D. This figure illustrates representative examples from the testing set, covering normal and withering pepper plants. The Ground truth (GT) labels are shown on the 1st row; the results of PointNet, Point-Net++, and DGCNN are listed on the 2nd, 3rd, and 4th rows, respectively. The classified normal (healthy) plants are shown in green and the withering (unhealthy) plants are in olive green, respectively. The misclassified plants are highlighted with a dotted red circle. Across all shown samples, PointNet++ has the best prediction results.
+The comparative qualitative results of health assessment on Pepper-4D. This figure illustrates representative examples from the testing set, covering normal and withering pepper plants. The Ground truth (GT) labels are shown on the 1st row; the results of PointNet, Point-Net++, and DGCNN are listed on the 2nd, 3rd, and 4th rows, respectively. The classified normal (healthy) plants are shown in green and the withering (unhealthy) plants are in olive green, respectively. The misclassified plants are highlighted with a dotted red circle. Across all shown samples, PointNet++ has the best prediction results.
 
 ### Organ Semantic Segmentation 
 
@@ -275,7 +275,7 @@ Figure 6. The comparative qualitative results of health assessment on Pepper-4D.
   <img src="figures/semantic.jpg" width="95%">
 </p>
 
-Figure 8. The qualitative results of organ semantic segmentation by the two networks on the Pepper-4D dataset. This figure illustrates representative samples from the testing set, covering plants with varying structural complexity and canopy density. The GTs are shown in the first row, while the results of PlantNet and PSegNet are presented in the second and third rows, respectively. Points corresponding to leaves are in pink, and the stem points are in green. We also enlarge several parts for detailed comparison.
+The qualitative results of organ semantic segmentation by the two networks on the Pepper-4D dataset. This figure illustrates representative samples from the testing set, covering plants with varying structural complexity and canopy density. The GTs are shown in the first row, while the results of PlantNet and PSegNet are presented in the second and third rows, respectively. Points corresponding to leaves are in pink, and the stem points are in green. We also enlarge several parts for detailed comparison.
 
 
 ### Organ Instance Segmentation 
@@ -284,7 +284,7 @@ Figure 8. The qualitative results of organ semantic segmentation by the two netw
   <img src="figures/instance.jpg" width="95%">
 </p>
 
-Figure 9. The comparative qualitative results of instance segmentations of the two networks on the Pepper-4D dataset. The GT labels are shown in the first row, while the predictions of PlantNet and PSegNet are displayed in the second and third rows, respectively. Each leaf instance is rendered in a distinct color for visual clarity. Misclassified or incomplete regions are highlighted with red dotted circles.
+The comparative qualitative results of instance segmentations of the two networks on the Pepper-4D dataset. The GT labels are shown in the first row, while the predictions of PlantNet and PSegNet are displayed in the second and third rows, respectively. Each leaf instance is rendered in a distinct color for visual clarity. Misclassified or incomplete regions are highlighted with red dotted circles.
 
 
 ### New Organ Detection
@@ -293,7 +293,7 @@ Figure 9. The comparative qualitative results of instance segmentations of the t
   <img src="figures/new_organ_detection.jpg" width="95%">
 </p>
 
-Figure 10. Visualization of two testing sequences in Subset 2 of Pepper-4D. Each sequence is testes by 3D-NOD for new organ detection, and the results are contrasted with GTs. For better visual effect, some areas containing small buds and leaves are enlarged. The points of new organs are rendered in purple, and the points of old organs are rendered in green.
+Visualization of two testing sequences in Subset 2 of Pepper-4D. Each sequence is testes by 3D-NOD for new organ detection, and the results are contrasted with GTs. For better visual effect, some areas containing small buds and leaves are enlarged. The points of new organs are rendered in purple, and the points of old organs are rendered in green.
 
 
 ### Organ tracking 
@@ -302,7 +302,7 @@ Figure 10. Visualization of two testing sequences in Subset 2 of Pepper-4D. Each
   <img src="figures/temporal.jpg" width="95%">
 </p>
 
-Figure 11. Qualitative results of organ tracking on Pepper-4D using the TrackPlant3D framework. The figure presents two representative pepper growth sequences with manually labeled GTs. In each sequence, the 1st row shows the GTs of organ tracking; the 2nd row shows the instance segmentations as the input of TrackPlant3D (please note that the segmented organs are not aligned in the timeline); the 3rd row shows the result of TrackPlant3D. Only two regions are incorrectly tracked as they are highlighted with red dotted circles.
+Qualitative results of organ tracking on Pepper-4D using the TrackPlant3D framework. The figure presents two representative pepper growth sequences with manually labeled GTs. In each sequence, the 1st row shows the GTs of organ tracking; the 2nd row shows the instance segmentations as the input of TrackPlant3D (please note that the segmented organs are not aligned in the timeline); the 3rd row shows the result of TrackPlant3D. Only two regions are incorrectly tracked as they are highlighted with red dotted circles.
 
 
 ### Generating natural and vivid 3D plants
@@ -311,7 +311,7 @@ Figure 11. Qualitative results of organ tracking on Pepper-4D using the TrackPla
   <img src="figures/GAN.jpg" width="95%">
 </p>
 
-Figure 13. Qualitative comparison of GAN-based 3D plant generation on the Pepper-4D dataset. The real samples (the 1st row) illustrate the natural structural variability of pepper plants across the Pepper-4D dataset. TreeGAN (the 2nd row) and WarpingGAN (the 3rd row) generate virtual pepper point clouds that capture both similarity to real morphological patterns and diversity across generated instances.
+Qualitative comparison of GAN-based 3D plant generation on the Pepper-4D dataset. The real samples (the 1st row) illustrate the natural structural variability of pepper plants across the Pepper-4D dataset. TreeGAN (the 2nd row) and WarpingGAN (the 3rd row) generate virtual pepper point clouds that capture both similarity to real morphological patterns and diversity across generated instances.
 
 
 ## Dataset Structure<br>
