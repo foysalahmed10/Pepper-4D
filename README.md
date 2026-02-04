@@ -173,11 +173,7 @@ representative publicly available 3D crop datasets.
   <img src="figures/data_acquisition_pipeline.jpg" width="95%">
 </p>
 
-Pepper-4D was constructed through a multi-stage pipeline including image
-acquisition, preprocessing, 3D reconstruction, and plant-only point cloud
-generation. Multi-view images were captured for each plant at each time step,
-followed by 3D reconstruction and post-processing to obtain temporally aligned
-point clouds.
+Figure 2. Workflow of image acquisition and 3D reconstruction for the Pepper-4D dataset. (a) is the step of image acquisition and preprocessing; (b) shows the 3D reconstruction step using the NeRFacto framework; and (c) shows the preparation step of the plant-only point cloud by pot removal and filtering on the result from Point Cloud Exporter.
 
 ---
 
