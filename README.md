@@ -38,6 +38,10 @@ Pepper-4D is an open 4D (spatiotemporal) point-cloud dataset capturing pepper (*
 
 ---
 
+- **NeRF:** https://docs.nerf.studio/
+
+---
+
 ## Cultivation and Data Collection Conditions
 
 All subsets were collected under the same controlled indoor cultivation conditions:
