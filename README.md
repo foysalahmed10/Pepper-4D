@@ -267,6 +267,8 @@ Reference implementations:
   <img src="figures/health_classification.jpg" width="95%">
 </p>
 
+Figure 6. The comparative qualitative results of health assessment on Pepper-4D. This figure il-lustrates representative examples from the testing set, covering normal and withering pepper plants. The Ground truth (GT) labels are shown on the 1st row; the results of PointNet, Point-Net++, and DGCNN are listed on the 2nd, 3rd, and 4th rows, respectively. The classified normal (healthy) plants are shown in green and the withering (unhealthy) plants are in olive green, re-spectively. The misclassified plants are highlighted with a dotted red circle. Across all shown samples, PointNet++ has the best prediction results.
+
 ### Organ Semantic Segmentation 
 
 <p align="center">
