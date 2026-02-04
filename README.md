@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Pepper-4D </h1>
+<h1 align="center">Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping</h1>
 <p align="center"><i>  </i></p>
 
 Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhicheng Li; Jingjing Huang; Jiahui Hou; Sayed Jobaer; Han Yan*<br>
