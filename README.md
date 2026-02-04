@@ -212,7 +212,10 @@ Figure 3. Illustration of the annotation on a pepper point cloud sequence of Sub
 
 <p align="center">
   <img src="figures/subset2_new_organs.jpg" width="95%">
-</p>
+</p
+
+Figure 4. Representative annotation on a pepper point cloud sequence of Subset 2 from Pep-per-4D dataset. Row (a) shows the original point clouds of the pepper sequence, in which the stages containing the geotropism event are labeled as “Geotropism”. Row (b) presents annotations of the organ-level growth event (new organ) using the Backwards & Forward Labelling (BFL) mechanism proposed in [31].
+
 
 - **Plants:** 8  
 - **Point clouds:** 238  
