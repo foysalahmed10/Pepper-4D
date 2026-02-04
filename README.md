@@ -414,7 +414,7 @@ The Pepper-4D dataset is released as three subsets:
 If you use Pepper-4D in your research, please cite our paper:
 
 ```bibtex
-@article{pepper4d: spatiotemporal 3D pepper crop dataset for phenotyping,
+@article{Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping,
   title   = {Pepper-4D},
   author  = {Ahmed, Foysal and others},
   journal = {To be updated},
