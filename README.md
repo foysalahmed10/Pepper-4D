@@ -193,6 +193,8 @@ phenotyping tasks.
   <img src="figures/subset1_lifecycle.jpg" width="95%">
 </p>
 
+Figure 3. Illustration of the annotation on a pepper point cloud sequence of Subset 1 from Pep-per-4D dataset. From top to bottom: row (a) shows the original point clouds reconstructed across a series of consecutive growth stages from the same sequence; (b) shows the manually-annotated organ instance labels (including individual leaf instances and the stem) with different colors; (c) shows manually-annotated organ semantic labels (stem class and leaf class); (d) shows tempo-rally-aligned organ instance indices across time for organ tracking; and (e) shows the plant-level health status labels covering from the normal (green) stages to the withering (yellow) stages. The interval of the data is 2 days.
+
 - **Plants:** 11  
 - **Point clouds:** 460  
 - **Description:**  
