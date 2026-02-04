@@ -67,7 +67,7 @@ The month ranges (e.g., July–December) denote the overall cultivation period.
 - **Total plants:** 29
 - **Total point clouds:** 916
 - **Total points:** 322.72 million
-- **Total dataset size:** ~20 GB
+- **Total dataset size:** ~10 GB
 - **Data modality:** 3D point clouds (XYZ)
 - **Temporal resolution:** intended ~2-day interval after minimum plant size (variable by plant/sequence)
 - **Environment:** Indoor controlled conditions
