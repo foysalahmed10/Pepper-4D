@@ -38,9 +38,7 @@ Pepper-4D is an open 4D (spatiotemporal) point-cloud dataset capturing pepper (*
 
 ---
 
-- **NeRF:** https://docs.nerf.studio/
 
----
 
 ## Cultivation and Data Collection Conditions
 
@@ -178,6 +176,10 @@ representative publicly available 3D crop datasets.
 </p>
 
 Figure 2. Workflow of image acquisition and 3D reconstruction for the Pepper-4D dataset. (a) is the step of image acquisition and preprocessing; (b) shows the 3D reconstruction step using the NeRFacto framework; and (c) shows the preparation step of the plant-only point cloud by pot removal and filtering on the result from Point Cloud Exporter.
+
+---
+
+- **NeRF:** https://docs.nerf.studio/
 
 ---
 
