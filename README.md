@@ -409,10 +409,6 @@ The Pepper-4D dataset is released as three subsets:
 ---
 
 
-## Citation<br>
-
-If you use Pepper-4D in your research, please cite our paper:
-
 
 ## Citation
 
