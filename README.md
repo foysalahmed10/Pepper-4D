@@ -11,8 +11,8 @@ Foysal Ahmed†; Dawei Li†; Boyuan Zhao; Zhanjiang Wang; Jiali Huang; Tingzhic
 <ins>†</ins> *Equal contribution*<br>
 <ins>*</ins> *Corresponding author*<br><br>
 
-(To be published)<br>
-[[Paper](TO_BE_UPDATED)]<br><br>
+
+[[Paper](https://www.mdpi.com/2223-7747/15/4/599)]<br><br>
 
 ---
 
@@ -413,12 +413,13 @@ The Pepper-4D dataset is released as three subsets:
 
 If you use Pepper-4D in your research, please cite our paper:
 
-```bibtex
-@article{Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping,
-  title   = {Pepper-4D},
-  author  = {Ahmed, Foysal and others},
-  journal = {To be updated},
-  year    = {2026}
+@article{ahmed2026pepper4d,
+  title   = {Pepper-4D: Spatiotemporal 3D Pepper Crop Dataset for Phenotyping},
+  author  = {Ahmed, Foysal and Li, Dawei and Zhao, Boyuan and Wang, Zhanjiang and Huang, Jiali and Li, Tingzhicheng and Huang, Jingjing and Hou, Jiahui and Jobaer, Sayed and Yan, Han},
+  journal = {Plants},
+  year    = {2026},
+  volume  = {15},
+  number  = {4},
+  pages   = {599},
+  doi     = {10.3390/plants15040599}
 }
-
-
