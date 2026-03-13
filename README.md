@@ -344,7 +344,7 @@ Pepper-4D/
     ├── plant_20/
     │   ├── frames/
     │   └── labels/
-    │       └── (no annotations)
+    │       └── temporal
     └── ...
 
 ```
