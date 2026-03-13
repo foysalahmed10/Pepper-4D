@@ -237,7 +237,7 @@ Representative annotation on a pepper point cloud sequence of Subset 2 from Pep-
 - **Annotations:**  
 
   <p align="center">
-  <img src="figures/Subset_3.png" width="95%">
+  <img src="figures/Subset_3.jpg" width="95%">
 </p
 
 ---
