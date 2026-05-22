@@ -402,8 +402,8 @@ Pepper-4D supports the following research tasks:
 The Pepper-4D dataset is released as three subsets:
 
 - **Subset 1:** https://drive.google.com/file/d/1BYQbJAQ2jogPlnH5Y-nNrnuZz1ZdOumB/view?usp=sharing  
-- **Subset 2:** https://drive.google.com/file/d/1gH_kwyMJUNAqTAUyXIqp5iiLIrIiss7i/view?usp=sharing
-- **Subset 3:** https://drive.google.com/file/d/1Vu31NHL1rBmEUA0Luy_u8N7xvtNutGJh/view?usp=sharing
+- **Subset 2:** https://drive.google.com/file/d/16Pg3GRM-4XEM3jLrwn1CgnuZHAaJng9o/view?usp=drive_link
+- **Subset 3:** https://drive.google.com/file/d/1LViEisq8OkjMJyOSXFBs5qji5-q_iJSL/view?usp=drive_link
 
 ### Associated image sequences
 
