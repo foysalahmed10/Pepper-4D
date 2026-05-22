@@ -405,14 +405,6 @@ The Pepper-4D dataset is released as three subsets:
 - **Subset 2:** https://drive.google.com/file/d/16Pg3GRM-4XEM3jLrwn1CgnuZHAaJng9o/view?usp=drive_link
 - **Subset 3:** https://drive.google.com/file/d/1LViEisq8OkjMJyOSXFBs5qji5-q_iJSL/view?usp=drive_link
 
-### Associated image sequences
-
-The original image sequences used for point-cloud reconstruction are available here:
-
-- **Subset 1 image sequences:** ADD_YOUR_LINK_HERE  
-- **Subset 2 image sequences:** ADD_YOUR_LINK_HERE  
-- **Subset 3 image sequences:** ADD_YOUR_LINK_HERE
-
 ---
 
 
