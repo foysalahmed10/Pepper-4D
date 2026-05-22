@@ -68,7 +68,7 @@ The month ranges (e.g., July–December) denote the overall cultivation period.
 - **Total point clouds:** 916
 - **Total points:** 322.72 million
 - **Total dataset size:** ~10 GB
-- **Data modality:** 3D point clouds (XYZ)
+- **Data modality:** 3D point clouds
 - **Temporal resolution:** intended ~2-day interval after minimum plant size (variable by plant/sequence)
 - **Environment:** Indoor controlled conditions
 
@@ -405,6 +405,13 @@ The Pepper-4D dataset is released as three subsets:
 - **Subset 2:** https://drive.google.com/file/d/1gH_kwyMJUNAqTAUyXIqp5iiLIrIiss7i/view?usp=sharing
 - **Subset 3:** https://drive.google.com/file/d/1Vu31NHL1rBmEUA0Luy_u8N7xvtNutGJh/view?usp=sharing
 
+### Associated image sequences
+
+The original image sequences used for point-cloud reconstruction are available here:
+
+- **Subset 1 image sequences:** ADD_YOUR_LINK_HERE  
+- **Subset 2 image sequences:** ADD_YOUR_LINK_HERE  
+- **Subset 3 image sequences:** ADD_YOUR_LINK_HERE
 
 ---
 
